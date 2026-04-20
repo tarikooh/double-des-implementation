@@ -50,3 +50,9 @@ After compiling, run:
 1. Encrypts a 64-bit plaintext using Double DES
 2. Decrypts it back to verify correctness
 
+## Group Members
+Tariku Temesgen                            UGR/7565/15
+Pawlos Addisu                              UGR/5732/15
+Simon Beyene                               UGR/6260/15
+Ibrahim Ali                                UGR/6991/14
+Nathnael Lule
